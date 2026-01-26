@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/./master/nextflow_schema.json",
-    "title": "Modidec training",
-    "workflow_title": "Modidec training",
+    "title": "Modidec Training",
+    "workflow_title": "Modidec Training",
     "description": "Nextflow workflow for training Modidec.",
     "demo_url": "",
     "aws_demo_url": "",
