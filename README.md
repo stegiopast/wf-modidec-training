@@ -51,7 +51,7 @@ The Reports section of the pipeline provides two result plots. The plot "report_
 
 
 ## Acknowledgements
-This project has been initiated in a [hackathon event](https://epi2me.nanoporetech.com/mainz-hackathon/) in 2024. We want to thank the Institute for [Quantitative and Computational Biosciences (IQCB)](https://iqcb.uni-mainz.de), the [RNA modification and processing consortium](https://www.trr319-rmap.de/) and [Holzer Scientific Consulting](https://www.holzerscientific.com/) for funding and/or organizing this event. Moreover, we want to thank [Oxford Nanopore Technologies](https://nanoporetech.com/) for teaching workflow integration into Epi2ME in an on-site event. Finally, the long-read community kickstarted the development of the here presented workflow and we are very thankful for your participation and engagement.
+This project has been initiated in a [hackathon event](https://epi2me.nanoporetech.com/mainz-hackathon/) in 2025. We want to thank the Institute for [Quantitative and Computational Biosciences (IQCB)](https://iqcb.uni-mainz.de), the [RNA modification and processing consortium](https://www.trr319-rmap.de/) and [Holzer Scientific Consulting](https://www.holzerscientific.com/) for funding and/or organizing this event. Moreover, we want to thank [Oxford Nanopore Technologies](https://nanoporetech.com/) for teaching workflow integration into Epi2ME in an on-site event. Finally, the long-read community kickstarted the development of the here presented workflow and we are very thankful for your participation and engagement.
 
 ## Publications and Citation
 Whenever you use this tool please cite the following article:
